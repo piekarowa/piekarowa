@@ -5,8 +5,8 @@
 
 
 
-[![Linkedin: piekarowa](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=http://linkedin.com/in/paulina-piekarska-java-developer)](http://linkedin.com/in/paulina-piekarska-java-developer)
-[![GitHub Thaiane](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/Thaiane)
+[![Linkedin: piekarowa](https://img.shields.io/badge/-piekarowa-blue?style=flat-square&logo=Linkedin&logoColor=white&link=http://linkedin.com/in/paulina-piekarska-java-developer)](http://linkedin.com/in/paulina-piekarska-java-developer)
+[![GitHub piekarowa](https://img.shields.io/github/followers/piekarowa?label=follow&style=social)](https://github.com/piekarowa)
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
