@@ -7,7 +7,7 @@
 
 [![Linkedin: piekarowa](https://img.shields.io/badge/-piekarowa-blue?style=flat-square&logo=Linkedin&logoColor=white&link=http://linkedin.com/in/paulina-piekarska-java-developer)](http://linkedin.com/in/paulina-piekarska-java-developer)
 [![GitHub: piekarowa](https://img.shields.io/github/followers/piekarowa?label=follow&style=social)](https://github.com/piekarowa)
-![Codewars: piekarowa](https://img.shields.io/badge/-piekarowa-B1361E?style=for-the-badge&logo=codewars&logoColor=grey&link=https://www.codewars.com/users/piekarowa)](https://www.codewars.com/users/piekarowa)
+
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
@@ -18,7 +18,7 @@ public class Piekarowa {
     String[] stack = {"Java", "Spring", "SpringBoot", "Hibernate", "SQL", "HTML", "CSS", "Typescript", "React", "Docker"};
     String[] architecture = {"microservices", "design patterns"};
     String pronouns = "she/her";
-    String challenge = "I practice on <a href="https://www.codewars.com/users/piekarowa">codewars</a>;
+    String challenge = "I practice on <a href="https://www.codewars.com/users/piekarowa">codewars"</a>;
    
 }
 ```
