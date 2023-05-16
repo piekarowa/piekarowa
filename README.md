@@ -2,8 +2,9 @@
   <a href="https://github.com/pieakrowa"> <img loading="lazy" alt="Welcome" src="assets/welcome.svg"/> </a>
 </p>
 
+
 <p align="center">
-  <a href="https://github.com/piekarowa"> <img loading="lazy" alt="Piekarska" src="assets/piekarska.svg"/> <img loading="lazy" alt="Paulina" src="assets/paulina.svg"/> </a>
+  <a href="https://github.com/piekarowa"> <img loading="lazy" alt="Samir" src="assets/samir.svg"/> <img loading="lazy" alt="Paul" src="assets/paul.svg"/> </a>
 </p>
 
 <p align="center">
