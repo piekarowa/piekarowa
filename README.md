@@ -7,6 +7,7 @@
 
 [![Linkedin: piekarowa](https://img.shields.io/badge/-piekarowa-blue?style=flat-square&logo=Linkedin&logoColor=white&link=http://linkedin.com/in/paulina-piekarska-java-developer)](http://linkedin.com/in/paulina-piekarska-java-developer)
 [![GitHub: piekarowa](https://img.shields.io/github/followers/piekarowa?label=follow&style=social)](https://github.com/piekarowa)
+![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars?height="20"&logoColor=grey&link=https://www.codewars.com/users/piekarowa)
 
 
 
@@ -18,8 +19,7 @@ public class Piekarowa {
     String[] stack = {"Java", "Spring", "SpringBoot", "Hibernate", "SQL", "HTML", "CSS", "Typescript", "React", "Docker"};
     String[] architecture = {"microservices", "design patterns"};
     String pronouns = "she/her";
-    String challenge = "I practice on <a href=\"https://www.codewars.com/users/piekarowa\">codewars</a>";
-   
+    
 }
 ```
 
