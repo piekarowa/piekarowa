@@ -18,7 +18,7 @@ public class Piekarowa {
     String[] stack = {"Java", "Spring", "SpringBoot", "Hibernate", "SQL", "HTML", "CSS", "Typescript", "React", "Docker"};
     String[] architecture = {"microservices", "design patterns"};
     String pronouns = "she/her";
-    String challenge = "I practice on <a href="https://www.codewars.com/users/piekarowa">codewars"</a>;
+    String challenge = "I practice on <a href=\"https://www.codewars.com/users/piekarowa\">codewars</a>";
    
 }
 ```
