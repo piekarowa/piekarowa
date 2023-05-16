@@ -7,7 +7,7 @@
 
 [![Linkedin: piekarowa](https://img.shields.io/badge/-piekarowa-blue?style=flat-square&logo=Linkedin&logoColor=white&link=http://linkedin.com/in/paulina-piekarska-java-developer)](http://linkedin.com/in/paulina-piekarska-java-developer)
 [![GitHub: piekarowa](https://img.shields.io/github/followers/piekarowa?label=follow&style=social)](https://github.com/piekarowa)
-![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars?height="20"&logoColor=grey&link=https://www.codewars.com/users/piekarowa)
+![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars?height="15"&logoColor=grey&link=https://www.codewars.com/users/piekarowa)
 
 
 
